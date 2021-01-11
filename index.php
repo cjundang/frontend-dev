@@ -15,11 +15,12 @@
 <body>
     <div class="container">
         <button class="btn btn-primary"> xxxx </button>
+        <button class="btn btn-primary"> xxxx </button>
 
     </div>
     <script>
         $(()=>{
-            alert("Hello");
+            //alert("Hello");
         });
     </script>
 </body>
